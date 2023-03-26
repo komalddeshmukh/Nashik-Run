@@ -1,0 +1,19 @@
+.nav-main{
+background-color: gray;
+margin: 0;
+
+}
+.nav-item{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin: 0;
+    padding: 0%;
+    
+}
+.nav-item li{
+    text-decoration: none;
+    list-style: none;   
+}
